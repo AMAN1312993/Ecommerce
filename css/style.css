@@ -1,0 +1,11 @@
+html{
+  overflow-y: scroll;
+}
+
+body{
+margin-top: 70px;
+}
+img{
+  border: 5px ;
+  border-image: 5px;
+}
